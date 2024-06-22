@@ -23,10 +23,3 @@ class Stack:
             return self.stack[-1]
         return None
 
-
-def devide(a, b):
-    return a/b
-
-
-def abc():
-    return 1
